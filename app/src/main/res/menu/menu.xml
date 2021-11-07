@@ -1,0 +1,18 @@
+<?xml version ="1.0" encoding ="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/take_pic"
+        android:title="拍摄">
+    </item>
+
+    <item
+        android:id="@+id/select_pic"
+        android:title="相册">
+    </item>
+
+<!--    <item-->
+<!--        android:id="@+id/delete_pic"-->
+<!--        android:title="删除">-->
+<!--    </item>-->
+</menu>
